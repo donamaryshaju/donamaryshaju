@@ -1,18 +1,42 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hello World! I'm Dona Mary Shaju</h1>
-<h3 align="center">🚀 MCA Student | Full Stack Developer in the Making | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Dona Mary Shaju</h1>
+<h3 align="center">🌟 MCA Student | Web Developer | Tech Enthusiast 🌟</h3>
 
 ---
 
-## 🌟 About Me  
-- 🎓 Pursuing Master of Computer Applications at **Saintgits College of Engineering**
-- 💡 Passionate about **Web & Mobile Development** and **Open Source Contributions**
-- 🌱 Currently mastering **Flutter, React.js, and Cloud Technologies**
-- 🏆 Won **Smart India Hackathon 2023** (Project: Smart Tourist Guide)
-- ✨ Fun fact: I document my coding journey and travel adventures on Instagram!
+### 👩‍💻 About Me
+- 🎓 Master of Computer Applications student at **Saintgits College of Engineering, Kottayam**  
+- 💡 Passionate about **web development**, **database management**, and **creative coding**  
+- 🌱 Currently learning **React, Node.js, and Cloud Technologies**  
+- ✨ I love building clean, responsive, and user-friendly applications  
 
 ---
 
+### 📚 Learning
+- 🚀 **Advanced Web Development**
+- 📱 **Flutter & Mobile App Development**
+- ☁ **Cloud Computing**
+- 🛢 **Database Optimization**
+
+---
+
+### 🤝 Collaborations
+- 💬 Open to collaborating on **Web Apps**, **Mobile Apps**, and **Open Source Contributions**  
+- 🔍 Always excited to join **innovative student projects** and **hackathons**
+
+---
+
+### 💬 Ask Me About
+- 🌐 HTML, CSS, JavaScript  
+- ⚡ Node.js, Express.js  
+- 🗄 MongoDB, MySQL  
+- 📦 APIs & Integrations  
+
+---
+
+### 📫 Reach Me
+- 📧 **donamaryshaju@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/dona-mary-shaju-b0b9ba250)  
+---
 ## 🛠️ Tech Stack  
 
 ### **Frontend Development**
@@ -60,19 +84,3 @@
 
 ---
 
-
-## 🎯 2024 Goals  
-- ✅ Publish 3 technical blog posts  
-- 🚀 Contribute to 5+ open source projects  
-- 📱 Launch my personal app on Play Store  
-- 🌐 Complete AWS Cloud Practitioner Certification  
-
----
-
-## ✨ Inspirational Quote  
-> "The beautiful thing about learning is that nobody can take it away from you."  
-> — B.B. King  
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=donamaryshaju&label=Profile%20views&color=0e75b6&style=flat" alt="donamaryshaju" /> 
-</p>
