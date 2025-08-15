@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 - 🎓 Master of Computer Applications student at **Saintgits College of Engineering, Kottayam**  
 - 💡 Passionate about **web development**, **database management**, and **creative coding**  
-- 🌱 Currently learning **React, Node.js, and Cloud Technologies**  
+- 🌱 Currently learning ** Node.js, Android and Flutter**  
 - ✨ I love building clean, responsive, and user-friendly applications  
 
 ---
