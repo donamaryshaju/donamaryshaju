@@ -64,7 +64,8 @@
 ## 🔥 Current Projects  
 - **Smart Tourist Guide App** (Flutter)  
 - **Banking Ledger System** (Epress + Node.js + MongoDB)  
-- **Personal Blog Platform** (Node.js + MongoDB)  
+- **Personal Blog Platform** (Node.js + MongoDB)
+- **Staff Module**(Node.js + Express + MongoDB)
 
 ---
 
